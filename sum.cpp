@@ -6,4 +6,5 @@ int main()
   a=5;
   b=5;
     cout<<a+b;
+  gvbj,lkljuh fcchuo
 }
